@@ -1,14 +1,14 @@
 {
-  "name": "ꌚ꓄ꌩ꒒ꀤꌚꀍ ꓄ꏂꉧ꓄",
-  "description": "𝗦𝘁𝘆𝗹𝗶𝘀𝗵 𝗧𝗲𝘅𝘁 𝗕𝗼𝘁 ⛄",
+  "name": "𝗦𝘁𝘆𝗹𝗶𝘀𝗵 𝗧𝗲𝘅𝘁 MAGIC 𝗕𝗼𝘁",
+  "description": "𝗦𝘁𝘆𝗹𝗶𝘀𝗵 𝗧𝗲𝘅𝘁 MAGIC 𝗕𝗼𝘁 ⛄",
   "keywords": [
     "telegram",
     "best",
     "StylishText"
   ],
   "logo": "https://telegra.ph/file/2bfb27c927ef42d4da416.jpg",
-  "success_url": "https://telegram.dog/boDecorationBot",
-  "website": "https://github.com/C2BoT/Stylish-Text",
+  "success_url": "http://t.me/Stylish_Text_Magic_Bot",
+  "website": "https://github.com/zmraj/Stylish-Text-Magic",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
