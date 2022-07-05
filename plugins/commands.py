@@ -21,10 +21,11 @@ async def start(c, m):
     # Buttons
     buttons = [
         [
-            InlineKeyboardButton('𝗡𝗲𝘄 𝗬𝗼𝗿𝗸', url=f"https://t.me/us7a5")
+            InlineKeyboardButton('𝗡𝗲𝘄 𝗬𝗼𝗿𝗸', url=f"https://t.me/DeltaBotsOfficial"),
+            InlineKeyboardButton('𝘀𝘁𝘆𝗹𝗶𝘀𝗵 𝗕𝗼𝘁 ⛄', url='http://t.me/Stylish_Text_Magic_Bot')
         ],
         [
-            InlineKeyboardButton('𝘀𝘁𝘆𝗹𝗶𝘀𝗵 𝗕𝗼𝘁 ⛄', url='https://t.me/boDecorationBot')
+            InlineKeyboardButton('🎬𝗠𝗢𝗩𝗜𝗘𝗦🎬', url='https://t.me/joinchat/vii7DDEvKCZkNDVl')
         ]
     ]
     await m.reply_text(
