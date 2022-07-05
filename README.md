@@ -2,7 +2,7 @@
 
 <a href="https://telegram.dog/boDecorationBot"><img src="https://img.shields.io/badge/Stlish_Text-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/zmraj/Stylish-Text-Magic)
-<a href="https://telegram.dog/us7a5"><img src="https://img.shields.io/badge/Telegram-by--blue.svg?logo=telegram"></a>
+<a href="https://t.me/DeltaBotsOfficial"><img src="https://img.shields.io/badge/Telegram-by--blue.svg?logo=telegram"></a>
 ## 𝗗𝗲𝗽𝗹𝗼𝘆 𝘁𝗼 𝗵𝗲𝗿𝗼𝗸𝘂 ⛄
 
 T͟h͟i͟s͟ i͟s͟ a͟ t͟e͟l͟e͟g͟r͟a͟m͟ b͟o͟t͟ h͟e͟l͟p͟ y͟o͟u͟ t͟o͟ g͟e͟t͟ s͟t͟y͟l͟i͟s͟h͟ f͟o͟n͟t͟s͟ a͟n͟d͟ t͟e͟x͟t͟.
